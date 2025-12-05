@@ -1,6 +1,10 @@
 # Google Indexing API Tool
 
-A simple Python GUI application to interact with the Google Indexing API. This tool allows you to instantly request Google to crawl (publish/update) or remove URLs from the search index.
+A simple Python GUI application to interact with the Google Indexing API. This tool allows you to instantly request Google to crawl (publish/update) or remove URLs from the search index.  
+It was originally created to help automate indexing for several personal projects and platforms, including tools used on websites like [Plinkod.com](https://plinkod.com), where fast indexing can be especially useful for new content pages.
+
+## Preview
+![App Preview](assets/preview.png)
 
 ## Features
 - **User-Friendly GUI**: Built with Tkinter for easy interaction.
